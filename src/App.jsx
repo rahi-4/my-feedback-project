@@ -1,5 +1,5 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import CategoryNav from "./components/CategoryNav";
+import CategoryNav from "./Components/CategoryNav";
 import Hotels from "./Hotel/Hotels";
 import Navbar from './Components/Navbar';
 import AllComponents from './All/AllComponent';
